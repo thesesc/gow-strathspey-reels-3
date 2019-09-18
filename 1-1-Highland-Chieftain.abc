@@ -1,0 +1,26 @@
+X: 11
+T: The Highland Chieftain
+C: Nathaniel Gow
+L: 1/8
+M: 4/4
+K: D
+% FIX ME: All stem directions on multiple voices on same staff.
+V:1
+g | T+p+f>e{c}d>B AFFd | (A<F)A>E {E}F2 Fg | Tf>ed>B A>B {B}d>B | (A<F)F>D {D}[EC]2 [EC]g |
+% FIX ME: Small notes in chord in m. 4
+% ATTENTION: Symbol under D grace note in m. 4
+Tf>de>f d>fB>d | A>dAF {F}A2 AB/2+f+c/2 | Td>f {e}dc/2B/2 AFFd | +p+(A<F)TF>D [EC]2 [EC] ||
+% FIX ME: Small note in chord in m. 8
+% ATTENTION: Forte positioning in end of bar 6.
+B | +f+A<FTF>B A<FF>d | AF {F}(A>E) {E}TF2 FB | A<FA>B Td>e{e}f>e | {c}d>BAF {F}[EC]2 [EC]B |
+%FIX ME: Small note in chord in m. 12
+(A<F)F>d (A<F)F>B | (A<F){F}A>E {E}F2 F>B | +f+[AD]>B [dF]>f e<f!fermata!d>B | A>B {AB}dF {F}[EC]2 [EC] |]
+% FIX ME: Small note is chord in m. 15 (D only?)
+% FIX ME: Small note in chord in m. 16
+V:2 clef=bass middle=d
+L: 1/4
+z/2 | d f/2g/2 f d | d c d/2A/2 D | d b/2g/2 f d/2g/2 | f d A/2a/2A/2 z/2 |
+      d a b g | f d D/2d/2 f/2g/2 | f/2d/2 a/2A/2 d D | d B/2^g/2 a/2e/2A/2 ||
+=g/2 | d2 d D & f>g f x | d c d/2A/2 D | d f/2g/2 f/2e/2d/2c/2 | B/2G/2F/2D/2 A/2a/2 A |
+      d d d>d & x a x>g | d c d/2A/2 d/2g/2 | [fF] [dD] [aA] !fermata!b/2g/2 | f d A/2a/2A/2 |]
+% FIX ME: Small notes in mm. 9, 13, 15.
