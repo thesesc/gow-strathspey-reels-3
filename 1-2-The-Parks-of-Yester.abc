@@ -1,0 +1,18 @@
+X:12
+T:The Parks of Yester
+M:9/8
+K:D
+L:1/8
+Q:Slowish, Distinctly
+V:1
+A | .F.D.D AFF BEE | FDD AFF Td2 A | FDD AFF BEE | FDD AFF Td2 A | 
+FDD AGF BGE | FDD AFA Td2 A | FDD AGF BGE | FDD AFA d2 ||
+A | Td3 AGF BGE | Td3 AFA d2 A | TB>cd {B}AGF BGE | FDD AFA Td2 A | 
+Td3 AGF BGE | (d/c/B/c/).d AFA d2 A | TB>cd {B}AGF BGE | FDD AFA d2 |]
+V:2 clef=bass middle=d
+L:1/8
+z | d3d3e3 | d3d3f3 | d3d3e3 | d3d3f3 | 
+d3d3e3 | d3d3f3 | d3d3e3 | d3A3d2 ||
+z | f3d3e3 | f3d3d3 | g3 f2d e3 | d3d3f3 |
+f3d3e3 | f3d3f3 | g3 f2d e3 | d3d3[fd]2 |]
+% FIXIT Small note head on f in last measure.
