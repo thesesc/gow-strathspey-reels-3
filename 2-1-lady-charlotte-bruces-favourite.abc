@@ -1,0 +1,27 @@
+X:21
+T:Lady Charlotte Bruce's Favourite
+C:Nathaniel Gow
+Q:Slow
+K:F
+M:6/8
+L:1/8
+V:1
+% FIX ME: Small noteheads on chords (C).
+% CHECK: Slurs in bar 1 and 5 for 3 or 4 notes?
+B | A2 c (A/B/c).A | TB2 d G2 B | A2 B {d}cAF | TE2 F G2 B | 
+A2 c (A/B/c).A | TB2 d GAB | (cA).F (BG).E | [FC]3 [FC]2 :|
+f | (e/f/g)e f2 c | Td2 e f2 a | {a}gfg a2 f | Te2 f g2 a | (e/f/g)e f2 c | {Bc}d2 B Acf | (cA)F (BG)E | [FC]3 [FC]2 f |
+    (e/f/g)e f2 c | d2 e f2 a | {a}gfg a2 f | e2 f (ga)b | afc Td>ef | {d}cBA TB>cd | (cA).F (BG).E | [FC]3 [FC]2 |]
+V:2 clef=bass middle=d name="Harpsichord Bass"
+N:Marked "Harpsichord Bass"
+% FIX ME: Small font for this staff
+z | (fa)c' (fa)c' | fbd' egc' | fac' fac' | cgc' cgc' | 
+fac' fac' | fbd' egc' | fac' cgc' | a3 a2 & fcA F2 :|
+% FIX ME: A's in final bars of sections need to connect stems with fiddle part.
+z | gbc' fac' | b2 g a2 f | egc' fac' | cgc' cgc' | gbc' fac' | fbd' fac' | fac' cgc' | a3 a3 & fcA F3 |
+gbc' fac' | b2 g a2 f | egc' fac' | cgc' c3 | [f'a]3 [f'b]3 | [af]3 [bf]3 | c'3 c3 | a3 a2 & fcA F2 |]
+V:3 clef=bass middle=d name="Violoncello Bass"
+z | f3 F3 | B3 c3 | f3 F3 | c3 c'3 |
+f3 F3 | B3 b3 | c'3 c3 | fcA F2 :|
+z | c'2 b a2 f | B2 c d3 | e3 f2 d | c3 C3 | c2 B A2 f | B3 f3 | c3 C3 | FBc F3 |
+    c2 B A2 F | B2 G A2 f | e2 c f2 F | c3 c'3 | f3 b3 | a3 b3 | c'3 c3 | fcA F2 |]
