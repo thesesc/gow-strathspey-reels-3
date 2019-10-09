@@ -1,0 +1,17 @@
+X:33
+T:Mr. Muir Mackinzie's Favourite
+C:Mr. Sharpe of Hoddom
+K:D
+Q:"Slow"
+M:C
+L:1/8
+V:1
+f | {c}d2 TA>G {G}FD DE/F/ | TG>FED CA,TBc | Td>e {e}d{c}B AFGB | A<FTE>G FDD :|
+f/g/ | Ta>bag Tfefd | Tg>fed {d}cBcA | Ta>bag Tfefd | Tg>ea>f d2 Td
+f/g/ | Ta>bag fdef | gfed cABc | Td>e {g}f{e}d Te>f {a}g{f}e | (f>a) Tc>e Td2 D |]
+V:2 clef=bass middle=d
+L:1/4
+z/ | DdDd | e/f/g/^g/ a =g | f [gd] f/d/e/g/ | f/d/ a/A/ d/A/ D/ :|
+% FIX ME: Small notehead for g in chord.
+z/ | dd'dd' | e/f/g/^g/ a =g | f>edb |g a/A/ d/A/ D/ | 
+z/ | d/d'/d/d'/ d/d'/d/d'/ | e/f/g/^g/ a =g/e/ | d/d'/ z A/a/ z | d a/A/ d/A/D/ |]
