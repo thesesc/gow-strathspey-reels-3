@@ -1,0 +1,17 @@
+X:42
+T:Lady Ann Hopes Favourite
+K:G
+M:C
+Q:"Slow"
+L:1/8
+V:1
+g/e/ || Td>B GB/c/ (d/c/)B/A/ GB/c/ | {Bc}d>B{B}g>B {[BG]}[AF]2 [AF]B/c/ | {Bc}d>BGB dg/a/ {ga}b>a | {f/}g>edB TG2 G :|
+a | (g/a/)b/a/ Tgd (e/f/)g/f/ {e/}dc/B/ | de/f/ (g/e/)d/B/ {B}A2 A>a & x2 x2 {G}F2 Fx | (g/a/)b/a/ Tg>d e/f/g/f/ {f/}ed/B/ | Tde/f/ (g/e/)d/B/ {B}d2 d>a |
+    (g/a/)b/a/ g>d (e/f/)g/f/ {f/}ed/B/ | d(e//g//)(f//a//) g/e/d/B/ {B}A2 Ag/e/ | !turn!d>BGB dg/a/ {ga}b>a | g>e{e/}dB G2 TG |]
+%FIXME: Turn with sharp.
+%FIXME: Small noteheads on multivoice.
+V:2 clef=bass middle=d
+L:1/4
+z/ | gGgG | bgd'd | gGgG | B/c/ d/D/ G/g/G/ :|
+z/ | g>B c>G | B/c/ B/G/ d/A/ D | G/g/G/B/ c B/G/ | B/c/d/D/ G/g/ G |
+     G/g/ b/g/ c/c'/c/g/ | b/c'/ b/g/ d/d'/ d | gGB G/c/ | B/c/ d/D/ G/g/G/ |] 

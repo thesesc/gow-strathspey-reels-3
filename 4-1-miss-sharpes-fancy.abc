@@ -1,0 +1,16 @@
+X:41
+T:Miss Sharpes Fancy
+C:Mr. Sharpe
+K:D
+M:6/8
+Q:"Slowish"
+L:1/8
+V:1
+f | {c}d2 A AFA | {GA}B2 A AFA | {Bc}d2 A {B/}AGF | ECA, TA,2 B/c/ | d2 A AFA | {GA}B2 A ABc | d(gf) (ea)c | d3 Td2 :|
+f/g/ | afd (df).a | ged (ce)g | fed {e/}Tdcd | ecA A2 (f/g/) | afd dfa | ged (ce).g | (fa).d (eg).c | {c}d3 Td2 f/g/ |
+afd (df)a | ged (ce)g | fed {f/}Tdcd | ecA TA2 G | (FA).d (FA).d | (GB).d (GB).d | (Ag).f (ea).c | {c}Td3 D2 |]
+V:2 clef=bass middle=d
+z | D3 d3 | D3 d3 | D3 d3 | A3 Aeg | f3 d3 | g3 f3 | g3 a2 A | dfa d2 :|
+z | d'3 d3 | a3 A3 | d3 d'3 | a3 A3 | d3 d'3 | a3 A3 | d3 a2 A | dAF D3 |
+    d3 d3 | A3 a3 | d3 d'3 | a3 A3 | d3 d3 | g3 g3 | a3 A3 | dfa d2 |]
+% FIXME: Fewer lines of music.
