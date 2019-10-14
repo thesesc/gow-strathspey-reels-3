@@ -1,0 +1,17 @@
+X:51
+T:Earl of Elgin's Favourite (strathspey)
+C:Nathaniel Gow
+K:E
+M:2/4
+Q:"Very Slow"
+L:1/8
+V:1
+B, | (E/F/G) B,B, | TCD/E/ B,>E | CFTFE | TD>E FG/A/ | {GA}.B.G .E.B, | TCD/E/ B,E | !f!CA/>F/ G/>E/F/>D/ | E[EG,][EG,] :|
+B | Te>f gg | (.f.f) Te2 | cf fe | Td>e fa | {a}g/>f/g/a/ (.b.b) | !f![fd][fd] [ge]2 | Tca/>f/ g/>e/f/>d/ | e2 EG |
+    !p!(Af) TF>A | (Ge) TE>G | ACT!f!F>E | {E}D2 {D}TC>B, | !p!BBcd | {f/}e>c BG | !f!EE [AD][GE] | GTFE |] 
+V:2 clef=bass middle=d
+L:1/4
+z/ | e [eg] | [ea][eg] | [ea][f^a] | bB | E> [eg] | [ea][eg] | !f![ea] b/B/ | e/B/E/ :|
+z/ | e'/e/ e'/e/ | d'/b/ e'/g/ | a f/^a/ | b/f/ B | e/e'/ e/e'/ | !f!b/b/ c'/g/ | a b/B/ | e/B/ E | 
+     !p!fd | eG | F!f!^A | B=a | !p!g/e/ a/f/ | g/a/g/e/ | !f!z/g/f/e/ | b/B/ e/ |] 
+%FIXME: Doublestops in both voices with small noteheads.

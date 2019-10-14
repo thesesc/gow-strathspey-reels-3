@@ -1,0 +1,18 @@
+X:53
+T:Miss L. Johnston's Compliments to Neil Gow
+C:Miss Johnston of Hilton
+K:C
+M:C
+Q:"Slow"
+L:1/8
+V:1
+%FIXME: Small noteheads on chords.
+G | [cGE]3 G/E/ {G}TF>G {B}AG/F/ | E>F {A}GF/E/ FDDG | [cGE]3 G/E/ {G}TF>G {FG}AG/F/ | (E/F/)G/E/ (D/E/)F/D/ {D/}ECC :|
+G | [cGE]2 {e}g>e {f}a>f g>e | c>e a/g/f/e/ dd/c/ BG | [cGE]2 {e}g>e {f}a>f g>c | A>f e/d/c/B/ {B}c2 c>G | 
+    c>egc' {c'}ba/b/ c'>Tg| f>de>c (d/c/)TB/A/ (G/F/)TE/D/ | Ec Fd Ge Af | {f}ed/c/ (E/F/)G/F/ TECC |]
+V:2 clef=bass middle=d
+L:1/4
+z/ | c'cdB | cCGg | c'cc'c | cGcC/ :|
+z/ | cefe | cfgG | cefe | f g/G/ c/G/ C |
+     cc'ge | d/b/c'/c/ gG | c'b_ba & cdef | e/f/ g/G/ c/G/C/ |]
+%FIXME: Small note heads in penultimate bar.
